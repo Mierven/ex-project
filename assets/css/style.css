@@ -1,3 +1,6 @@
+/*google fonts imports*/
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&family=Oswald:wght@300&display=swap');
+
 /*asteresk to overide */
 * {
     padding: 0;
@@ -9,8 +12,11 @@
 body {
     min-height: 100vh;
     display: flex;
-    flex-direction: column
+    flex-direction: column;
+    font-family: 'Lato', sans-serif;
 }
+
+
 
 /*generic style*/
 color: #3a3a3a;
