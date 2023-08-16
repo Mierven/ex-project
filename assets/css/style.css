@@ -26,6 +26,9 @@ header {
     background-color: lightcoral;
 }
 
+h1 {
+    font-family: 'Owald', sans-serif;
+}
 
 /*main content*/
 main {
